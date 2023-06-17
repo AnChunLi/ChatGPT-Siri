@@ -1,5 +1,9 @@
 # ChatGPT-Siri
 Siri集成ChatGPT，如和人聊天一样和ChatGPT对话
+###  特点
+#### * 无需申请OpenAI API Key
+#### * 无需使用VPN，国内流畅访问
+#### * 免费无限次数使用
 
 ###  使用说明
 #### 1. 在iPhone、iPad或者Mac等支持Siri的Apple系产品上添加下方快捷指令。
